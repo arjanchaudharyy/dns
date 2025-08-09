@@ -468,6 +468,7 @@ _vercel:
     - vc-domain-verify=security.hackclub.com,b005370fba78b1b3b932
     - vc-domain-verify=squeak.hackclub.com,0574abe068e7c3c4a91e
     - vc-domain-verify=optimize.hackclub.com,08b88e7ff4ae25385700
+    - vc-domain-verify=arniko.hackclub.com,b328b0e8d413de967d72
 a5fj644skxexxgvvraqrag5ngcaovcny._domainkey:
   ttl: 600
   type: CNAME
